@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliUmer&show_icons=true&theme=radical)
 
 ### 🌟 Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/ali-umer/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aliumer)  
 
 Let's collaborate and build something amazing! 🌟
