@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 ### ✨ About Me
 - 🎓 Computer Science Student
 - 🤖 Working on AI-driven applications
-- 🛠️ Experienced in **MERN Stack, iOS Development (Swift), and Cloud Deployment**
+- 🛠️ Experienced in **MERN Stack, iOS Development (Swift), Generative AI, and Cloud Deployment**
 - 🌟 Exploring **Vision Transformers, GANs, and NLP models**
 
 ### 📚 What I'm Working On
 - ✨ **Scholarly** – AI-powered learning assistant for students
+- ✨ RAG based ChatBot for university students
 - 🛠️ Building software solutions.
-- 📝 Final Year Project (FYP): AI Learning Assistant with Roadmap & Reel Generation
 - 💻 Experimenting with **DynamoDB, Docker, AWS, Transformers and many more. **
 
 ### 💡 Skills & Tech Stack
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 - **Version Control:** Git, GitHub
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliUmer&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliUmer&show_icons=true&theme=radical&cache_seconds=1800)
 
 ### 🌟 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-umer/)  
