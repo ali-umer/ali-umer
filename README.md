@@ -1,22 +1,22 @@
-### Hi there! I'm Ali Umer 👋
+### Hi there! I'm Ali Umer 
 
 **MERN Stack Developer | iOS Developer | AI Enthusiast **
 
 Welcome to my GitHub profile! I'm passionate about building scalable web and mobile applications, and diving into AI projects.
 
-### ✨ About Me
-- 🎓 Computer Science Student
-- 🤖 Working on AI-driven applications
-- 🛠️ Experienced in **MERN Stack, iOS Development (Swift), Generative AI, and Cloud Deployment**
-- 🌟 Exploring **Vision Transformers, GANs, and NLP models**
+###  About Me
+-  Computer Science Student
+-  Working on AI-driven applications
+-  Experienced in **MERN Stack, iOS Development (Swift), Generative AI, and Cloud Deployment**
+-  Exploring **Vision Transformers, GANs, and NLP models**
 
-### 📚 What I'm Working On
-- ✨ **Scholarly** – AI-powered learning assistant for students
-- ✨ RAG based ChatBot for university students
-- 🛠️ Building software solutions.
-- 💻 Experimenting with **DynamoDB, Docker, AWS, Transformers and many more. **
+###  What I'm Working On
+-  **Scholarly** – AI-powered learning assistant for students
+-  RAG based ChatBot for university students
+-  Building software solutions.
+-  Experimenting with **DynamoDB, Docker, AWS, Transformers and many more. **
 
-### 💡 Skills & Tech Stack
+###  Skills & Tech Stack
 - **Languages:** JavaScript, Python, Swift, C++
 - **Frontend:** React.js, CSS
 - **Backend:** Node.js, Express.js
