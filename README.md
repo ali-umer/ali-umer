@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 -  RAG based ChatBot for university students
 -  Building software solutions.
 -  Experimenting with **DynamoDB, Docker, AWS, Transformers and many more. **
+-  Learning and learning JavaScript
 
 ###  Skills & Tech Stack
 - **Languages:** JavaScript, Python, Swift, C++
