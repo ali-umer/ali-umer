@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 - **Version Control:** Git, GitHub
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-umer&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-umer&show_icons=true&theme=radical)
 
 ### 🌟 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-umer/)  
