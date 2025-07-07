@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 -  **Scholarly** – AI-powered learning assistant for students
 -  RAG based ChatBot for university students
 -  Building software solutions.
--  Experimenting with **DynamoDB, Docker, AWS, Transformers and many more. **
+-  Experimenting with **DynamoDB, Docker, AWS, Transformers and many more.**
 -  Learning and learning JavaScript
 
 ###  Skills & Tech Stack
