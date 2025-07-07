@@ -1,11 +1,11 @@
 ### Hi there! I'm Ali Umer 
 
-**MERN Stack Developer | iOS Developer | AI Enthusiast **
+**MERN Stack Developer | iOS Developer | AI Enthusiast**
 
 Welcome to my GitHub profile! I'm passionate about building scalable web and mobile applications, and diving into AI projects.
 
 ###  About Me
--  Computer Science Student
+-  Computer Science Graduate
 -  Working on AI-driven applications
 -  Experienced in **MERN Stack, iOS Development (Swift), Generative AI, and Cloud Deployment**
 -  Exploring **Vision Transformers, GANs, and NLP models**
@@ -18,18 +18,15 @@ Welcome to my GitHub profile! I'm passionate about building scalable web and mob
 -  Learning and learning JavaScript
 
 ###  Skills & Tech Stack
-- **Languages:** JavaScript, Python, Swift, C++
-- **Frontend:** React.js, CSS
-- **Backend:** Node.js, Express.js
+- **Languages:** JavaScript, TypeScript, Python, Swift, C++/C
+- **Frontend:** React.js, Next.js, Tailwind CSS, Vanilla CSS
+- **Backend:** Node.js, Express.js, Next.js
 - **Databases:** MongoDB, DynamoDB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, NLP, GANs
 - **DevOps:** Docker, AWS, Firebase, CI/CD
 - **Version Control:** Git, GitHub
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-umer&show_icons=true&theme=radical)
-
 ### 🌟 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-umer/)  
 
-Let's collaborate and build something amazing! 🌟
+Let's collaborate and build something amazing!
